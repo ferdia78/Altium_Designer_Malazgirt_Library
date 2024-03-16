@@ -1,0 +1,2 @@
+# Altium_Designer_Malazgirt_Library
+Malazgirt_Library_V1.0
